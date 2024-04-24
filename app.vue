@@ -8,7 +8,7 @@
           <template #title> Advanced Card </template>
           <template #subtitle> Card subtitle </template>
           <template #content>
-              <p class="m-0">
+              <p class="m-0 p-ripple" v-ripple>
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore sed consequuntur error repudiandae numquam deserunt quisquam repellat libero asperiores earum nam nobis, culpa ratione quam perferendis esse, cupiditate neque
                   quas!
               </p>
